@@ -1,0 +1,28 @@
+Fragata
+Destroyer
+Cruiser
+Battlecruiser
+Battleship
+Industrial Ship
+Freighter
+Dreadnought
+Carrier
+Capital Ship Manufacture
+Capital Industrial Ship
+Jump Freighter
+Structure
+Capital Ship Component
+Maintence System
+Weapon System
+Power System
+Propulsion System
+Defense System
+Control System
+Module Manofacture
+Rig Manofacture
+Capital Module
+Capital Rig
+Implant
+Chip
+Polymer
+Ammunition

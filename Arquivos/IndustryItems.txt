@@ -1,0 +1,44 @@
+Tritanium
+Pyerite
+Mexallon
+Isogen
+Nocxium
+Zydrine
+Megacyte
+Morphite
+Lustering Alloy
+Sheen Compound
+Gleaming Alloy
+Condensed Alloy
+Precious Alloy
+Motley Compound
+Fiber Composite
+Lucent Compound
+Opulent Compound
+Glossy Compound
+Crystal Compound
+Dark Compound
+Reactive Gas
+Noble Gas
+Base Metals
+Heavy Metals
+Noble Metals
+Reactive Metals
+Toxic Metals
+Industrial Fibers
+Supertensile Plastics
+Polyaramids
+Coolant
+Condensates
+Construction Blocks
+Nanites
+Silicate Glass
+Smartfab Units
+Precious Metals
+Non-CS Crystals
+Heavy Water
+Suspended Plasma
+Liquid Ozone
+Ionic Solutions
+Oxygen Isotopes
+Plasmoids
